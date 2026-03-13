@@ -1,0 +1,25 @@
+# Database
+omr_data.db
+
+# Scanned images & results
+saved_scans/
+history.csv
+
+# Student data
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
